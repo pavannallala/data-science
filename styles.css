@@ -30,14 +30,15 @@ body {
 
 .content {
     padding: 20px;
+    text-align: center;
 }
 
 .index-page {
-    background-image: url('earth.jpg');
+    background-image: url('img1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    color: rgb(6, 6, 6); /* Change text color to white */
+    color: rgb(10, 10, 10); /* Change text color to white */
     padding: 50px;
 }
 
